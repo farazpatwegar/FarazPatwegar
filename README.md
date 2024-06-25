@@ -1,5 +1,5 @@
 
-## 👋 &nbsp;Hey there! I'm Faraz
+## 👋 &nbsp;Hey there! I'm Faraz Patwegar
 
 ### 👨🏻‍💻 &nbsp;About Me
 
