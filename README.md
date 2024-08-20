@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **AWS , Cloud Computing**
 
-- 💬 Ask me about **React , Spring Boot , Java , .Net , MySQL,Spring SecurityMongoDB**
+- 💬 Ask me about **React , Spring Boot , Java , .Net , MySQL, MongoDB**
 
 - 📫 How to reach me **farazpatwegar@gmail.com**
 
