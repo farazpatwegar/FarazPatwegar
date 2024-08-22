@@ -1,6 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<br><br>
+<br>
 <h1 align="center">Hi 👋, I'm Faraz Patwegar</h1>
 <h3 align="center">A dedicated software developer and enthusiastic learner, committed to continuous growth and innovation in the tech industry.</h3>
 
