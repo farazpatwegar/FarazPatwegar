@@ -29,9 +29,53 @@
 <a href="https://www.leetcode.com/u/farazpatwegar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/farazpatwegar/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br>
+<h1>Languages and Tools:</h1> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" width="40px" alt="aws icon"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40px" alt="bootstrap icon"/>
 
+
+  <img src="https://skillicons.dev/icons?i=cpp" width="40px" alt="cpp icon"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40px" alt="css icon"/>
+
+  <img src="https://skillicons.dev/icons?i=dotnet" width="40px" alt="dotnet icon"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="40px" alt="eclipse icon"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40px" alt="express icon"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40px" alt="git icon"/>
+    <img src="https://skillicons.dev/icons?i=cs" width="40px" alt="cs icon"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40px" alt="github icon"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" width="40px" alt="hibernate icon"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40px" alt="html5 icon"/>
+  <img src="https://skillicons.dev/icons?i=htmx" width="40px" alt="htmx icon"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40px" alt="java icon"/>
+
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40px" alt="tailwind icon"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="javascript icon"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40px" alt="nodejs icon"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40px" alt="react icon"/>
+  <img src="https://skillicons.dev/icons?i=jquery" width="40px" alt="jquery icon"/>
+    <img src="https://skillicons.dev/icons?i=c" width="40px" alt="c icon"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40px" alt="mongodb icon"/>
+  <img src="https://skillicons.dev/icons?i=kali" width="40px" alt="kali icon"/>
+    <img src="https://skillicons.dev/icons?i=docker" width="40px" alt="docker icon"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40px" alt="linux icon"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40px" alt="vscode icon"/>
+  <img src="https://skillicons.dev/icons?i=maven" width="40px" alt="maven icon"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40px" alt="nodejs icon"/>
+  <img src="https://skillicons.dev/icons?i=ps" width="40px" alt="ps icon"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40px" alt="postman icon"/>
+  <img src="https://skillicons.dev/icons?i=powershell" width="40px" alt="powershell icon"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="40px" alt="spring icon"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40px" alt="tailwind icon"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="40px" alt="ubuntu icon"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="40px" alt="visualstudio icon"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="40px" alt="windows icon"/>
+  
+
+</div>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farazpatwegar&show_icons=true&locale=en&layout=compact" alt="farazpatwegar" width="300" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=farazpatwegar&show_icons=true&locale=en" alt="farazpatwegar" width="400" /></p>
